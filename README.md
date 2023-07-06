@@ -9,3 +9,5 @@ Most of us are curious to know the time in any far country and we often search i
 So, let’s make it calculate by coding style with the help of a simple function.
 
 In this tutorial, we are simply converting timezones to find the current time in different places of the world.
+
+![octocat-1688654679306](https://github.com/MMVonnSeek/Current-time-stamps/assets/89359847/4c3bae7b-f2f7-4daf-815f-3826db1a54f0)
